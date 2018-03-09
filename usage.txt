@@ -1,0 +1,10 @@
+DIRECTIONS FOR USE:
+
+Windows:
+
+1. Open CMD
+2. Go to the containing directory
+3. run the program:
+	Emailauto.py 'subject', example.txt
+4. Enter Pin (set in program)
+5. Follow instrucitons in File comments
